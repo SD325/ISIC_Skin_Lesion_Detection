@@ -1,4 +1,4 @@
-# ISIC_Skin_Cancer_Detection
+# ISIC_Skin_Lesion_Detection
 Classification of various skin lesions using CNNs in Keras. Utilizes transfer learning by building on top of well-known neural networks such as DenseNet and VGG19.
 
 ## Data
