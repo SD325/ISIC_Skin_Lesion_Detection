@@ -5,6 +5,7 @@ Classification of various skin lesions using CNNs in Keras. Utilizes transfer le
 All training data from the 2019 International Skin Imaging Collaboration (ISIC). 
 
 ## Updated Results
+**ROC AUC scores:**
 * MEL: 0.775
 * NV: 0.907
 * BCC: 0.931
