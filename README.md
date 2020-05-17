@@ -7,11 +7,4 @@ All training and validation data from the 2019 International Skin Imaging Collab
 ## Updated Results
 ### DenseNet121
 **ROC AUC scores:**
-* MEL: 0.775
-* NV: 0.907
-* BCC: 0.931
-* AK: 0.903
-* BKL: 0.807
-* DF: 0.841
-* VASC: 0.984
-* SCC: 0.893
+![DenseNet121](/results/densenet121_roc_curve.png)
