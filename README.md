@@ -6,5 +6,4 @@ All training and validation data from the 2019 International Skin Imaging Collab
 
 ## Updated Results
 ### DenseNet121
-**ROC AUC scores:**
 ![DenseNet121](/results/densenet121_roc_curve.png)
